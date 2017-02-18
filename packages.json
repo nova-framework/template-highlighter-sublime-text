@@ -1,0 +1,12 @@
+{
+	"schema_version": "1.0.0",
+	"packages": [
+		{
+			"name": "Nova Template Highlighter",
+			"description": "Nova template syntax highlighter support for Sublime Text.",
+			"author": "David Carr",
+			"homepage": "https://github.com/nova-framework/template-highlighter-sublime-text",
+			"labels": ["php", "nova", "tpl", "language syntax"],
+		}
+	]
+}
