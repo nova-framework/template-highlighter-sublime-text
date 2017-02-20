@@ -2,6 +2,8 @@
 
 This package adds highlighting support for tpl view files for Nova Framework in Sublime Text.
 
+![Example](https://github.com/nova-framework/template-highlighter-sublime-text/blob/master/example.png)
+
 ## Install manaually
 Clone this repo and place the directory in your Sublime Text Packages folder and restart Sublime Text.
 
