@@ -8,4 +8,8 @@ Clone this repo and place the directory in your Sublime Text Packages folder and
 If your tpl files are not identifeid as Nova TPL then click on View -> Syntax -> Open all current extensions and click on `Nova TPL`.
 
 ## Install via Package Control
-Coming soon.
+Open package control and search for Nova Template Highlighter click on it to install. 
+
+## Usage
+
+When opening a .tpl file the highliter will activate and will highlight any template tags.
